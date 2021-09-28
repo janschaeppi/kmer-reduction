@@ -12,5 +12,7 @@ int main() {
     G.hash_countup(distribution);
 
     print_hotizontal(distribution);
+
+    G.stoptime_journal();
     return 0;
 }
